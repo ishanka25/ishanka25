@@ -1,16 +1,14 @@
 ### Hi there 👋
+#### I am a Software Developer from Sri Lanka!
 
-<!--
-**ishanka25/ishanka25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Skills:** Typescript / C# / NodeJS / AWS / MongoDB / MySQL
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Flutter 
+- 💬 Ask me about anything related to my tech stack! :) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ishanka25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ishanka-ranatunga/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/i.ranatunga)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ishanka_ranatunga/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ishanka25)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.ishanka.me)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ishanka25&show_icons=true&count_private=true)  
+
+![Profile views](https://gpvc.arturio.dev/ishanka25)  
