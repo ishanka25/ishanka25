@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I am a Software Developer from Sri Lanka!
 
-**Skills:** Typescript / C# / NodeJS / AWS / MongoDB / MySQL
+**Skills:** Typescript / Java / NodeJS / AWS / MongoDB / MySQL
 
 - 🌱 I’m currently learning Flutter 
 - 💬 Ask me about anything related to my tech stack! :) 
